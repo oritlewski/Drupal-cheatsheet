@@ -1,12 +1,18 @@
-# Drupal cheatsheet
+# Drupal 7 cheatsheet
 Selection de modules Drupal choisi pour leur intégration complète à Drupal permettant une parfaite personnalisation. Ainsi que pour leur stabilité.
 
-## Modules d’admin user friendly
+## Modules d’admin (make admin more user friendly)
 
-https://www.drupal.org/project/slickgrid
+[Admin views](https://www.drupal.org/project/admin_views)
+Permet d'ajouter des filtres avec Views à la page d'administration des contenus standard de Drupal.
+
+[Slick Grid](https://www.drupal.org/project/slickgrid)
 Permet d’éditer sur un page unique les champs de tout les contenus de même type.
 
-https://www.drupal.org/project/nodeblock
+[Field Groups](https://www.drupal.org/project/field_group)
+Permet d'organiser les champs des formulaires d'édition de contenu dans des conteneurs.
+
+[Node Block](https://www.drupal.org/project/nodeblock)
 Affiche les Node dans des blocs permettant a l’administrateur d’éditer ces blocks comme tout autre contenu.
 
 ## Modules collaboratifs
@@ -23,3 +29,6 @@ nécessite un serveur XMPP (par exemple https://www.ejabberd.im/)
 Multi-domain, multi-agents, mobile app de gestion. [Lien vers le site de l'éditeur](http://www.activehelper.com/extensions/drupal-live-chat.html)
 
 [e-assistance pro](https://www.eassistancepro.com/addons/drupal.php)
+
+## Modules de qualité
+[Link Checker](https://www.drupal.org/project/linkchecker) permet de vérifier les liens cassés du site 
