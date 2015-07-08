@@ -24,9 +24,10 @@ permet le chat anonyme. Fonctionne aussi avec NodeJS.
 [Drupal conversejs](https://www.drupal.org/project/conversejs)
 nécessite un serveur XMPP (par exemple https://www.ejabberd.im/)
 
-<strong>Chats Help Desk s’appuyant sur des services payants :</strong>
+<strong>Chats Help Desk s’appuyant sur des services payants :</strong><br />
+[Olark Live chat](https://www.drupal.org/project/olark) est complètement personnalisable et très puissant, permet des contexte et de voir ce que l'internaute regarde ou à regardé en live. <br />
 [Active Helper](https://www.drupal.org/sandbox/activehelper/1691848)
-Multi-domain, multi-agents, mobile app de gestion. [Lien vers le site de l'éditeur](http://www.activehelper.com/extensions/drupal-live-chat.html)
+Multi-domain, multi-agents, mobile app de gestion. [Lien vers le site de l'éditeur](http://www.activehelper.com/extensions/drupal-live-chat.html)<br />
 
 [e-assistance pro](https://www.eassistancepro.com/addons/drupal.php)
 
