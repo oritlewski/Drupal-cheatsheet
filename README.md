@@ -33,3 +33,6 @@ Multi-domain, multi-agents, mobile app de gestion. [Lien vers le site de l'édit
 
 ## Modules de qualité
 [Link Checker](https://www.drupal.org/project/linkchecker) permet de vérifier les liens cassés du site 
+
+## Clear Cache
+If if encounter any difficulty with memory by executing drush cc all, try to use this command : drush ev "cache_clear_all('*','cache',TRUE)"
