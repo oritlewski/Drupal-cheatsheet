@@ -31,6 +31,9 @@ Multi-domain, multi-agents, mobile app de gestion. [Lien vers le site de l'édit
 
 [e-assistance pro](https://www.eassistancepro.com/addons/drupal.php)
 
+## Modules Business Intelligence
+[Views Database Connector](https://www.drupal.org/project/views_database_connector)
+
 ## Modules de qualité
 [Link Checker](https://www.drupal.org/project/linkchecker) permet de vérifier les liens cassés du site 
 
